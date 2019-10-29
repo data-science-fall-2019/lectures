@@ -55,6 +55,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - I will not accept small curated datasets, or those that come from a paper
   where the data has already been analyzed.
+  
+- You should not select a dataset that you have used before, or are currently 
+  using in another class.
 
 - Datasets:
 
@@ -122,6 +125,10 @@ knitr::opts_chunk$set(echo = TRUE)
     - FBI National Incident-Based Reporting System (NIBRS) 
     
         <https://crime-data-explorer.fr.cloud.gov/downloads-and-docs>
+        
+    - World Bank Country-level Statistics
+    
+        <https://databank.worldbank.org/>
       
 # (5 pts) Progress Report
 
